@@ -1,0 +1,6 @@
+framework module Pods_YPCustomizationTutorial {
+  umbrella header "Pods-YPCustomizationTutorial-umbrella.h"
+
+  export *
+  module * { export * }
+}
